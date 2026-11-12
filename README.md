@@ -58,3 +58,4 @@ basic_langchain_chatbot/
 ├── uv.lock
 └── README.md
 ```
+I had my .env file in other folder soo i didn't add it here
